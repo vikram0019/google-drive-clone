@@ -1,0 +1,12 @@
+{
+  "/page": "app/page.js",
+  "/register/page": "app/register/page.js",
+  "/login/page": "app/login/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/api/folders/route": "app/api/folders/route.js",
+  "/api/files/route": "app/api/files/route.js",
+  "/api/register/route": "app/api/register/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/folders/[id]/route": "app/api/folders/[id]/route.js",
+  "/api/files/[id]/route": "app/api/files/[id]/route.js"
+}
